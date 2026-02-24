@@ -2,6 +2,11 @@
 
 //GET Equipos funcion que consulta al endpoint a traves de un fetch,conuslta al API al Endpoint
 
+//este es el archivo de servicios
+
+console.log("Probando");
+
+
 
 async function getEquipos() {
 
