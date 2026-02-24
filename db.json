@@ -1,0 +1,37 @@
+{
+  "usuarios": [
+    {
+      "id": "7e89",
+      "nombre": "Barry",
+      "apellido": "Vega",
+      "edad": "23"
+    }
+  ],
+  "productos": [],
+  "equipos": [
+    {
+      "id": "2ed4",
+      "nombreEquipo": "Real Madrid",
+      "fechaCreacion": "2010-06-01",
+      "paisCreacion": "España"
+    },
+    {
+      "id": "7a05",
+      "nombreEquipo": "Barcelona",
+      "fechaCreacion": "1995-04-01",
+      "paisCreacion": "España"
+    },
+    {
+      "nombreEquipo": "Liga Deportiva Alajuelense",
+      "fechaCreacion": "2017-06-21",
+      "paisCreacion": "Costa Rica",
+      "id": "5951"
+    },
+    {
+      "id": "0135",
+      "nombreEquipo": "Cartago",
+      "paisCreacion": "Costa Rica",
+      "fechaCreacion": "2017-06-21"
+    }
+  ]
+}
